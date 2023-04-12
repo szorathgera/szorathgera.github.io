@@ -1,6 +1,6 @@
 /*
 Name: 			View - Contact
-Written by: 	Okler Themes - (http://www.okler.net)
+Written by: 	Okler Themes - (https://www.okler.net)
 Version: 		3.7.0
 */
 

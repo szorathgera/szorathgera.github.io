@@ -173,7 +173,7 @@ $(document).ready(function () {
 			var dataString = $("form#defaultForm").serialize();
 			$.ajax({
 			type: "POST",
-			url: "http://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
+			url: "https://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
 			cache: false,
 			data: dataString,
 			success:function(data)
@@ -210,7 +210,7 @@ $(document).ready(function () {
 			var dataString = $("form#defaultForm").serialize();
 			$.ajax({
 			type: "POST",
-			url: "http://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
+			url: "https://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
 			cache: false,
 			data: dataString,
 			success:function(data)
@@ -287,7 +287,7 @@ $(document).ready(function () {
 			var dataString = $("form#contactfrm").serialize();
 			$.ajax({
 			type: "POST",
-			url: "http://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
+			url: "https://lithemes.com/projects/wordpress/blackair/wp-content/themes/mytheme/send.php",
 			cache: false,
 			data: dataString,
 			success:function(data)
