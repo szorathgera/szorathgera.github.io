@@ -10,6 +10,14 @@
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+@media (max-width: 767px) {
+	#video-container {
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+  }
+
 html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
